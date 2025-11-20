@@ -22,16 +22,32 @@
 ```go
   package main
 
+  type Technologies struct {
+    FrontEnd []string
+    BackEnd []string
+    CloudServices []string
+    Databases    []string
+    Misc         []string
+  }
+
   type Profile struct {
     Code         []string
+    Technologies Technologies
     CurrentFocus string
     FunFact      string
   }
 
   var farol = Profile{
-    Code:       []string{"Go", "Javascript", "Python"},
+    Code:         []string{"Go", "Javascript", "Python"},
     CurrentFocus: "Cybersecurity would be fun, I think.",
     FunFact:      "I'm training to be a sword master",
+    Technologies: Technologies{
+      FrontEnd:       []string{"React", "Next.js"},
+      BackEnd:        []string{"Go", "Python", "Javascript"},
+      CloudServices:  []string{"GCP"},
+      Databases:      []string{"PostgreSQL", "MySQL", "redis"},
+      Misc:           []string{}
+    }
   }
 ```
 
