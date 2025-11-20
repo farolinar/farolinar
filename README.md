@@ -5,6 +5,14 @@
 
 [![Linkedin: farolina-r](https://img.shields.io/badge/farolina-r?logo=inspire&logoColor=%23ffffff&label=linkedin&color=%230077b5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffarolina-r%2F
 )](https://www.linkedin.com/in/farolina-r/)
+[![Portfolio: farolina](https://img.shields.io/badge/my_portfolio-23103A?logo=googledocs&logoColor=%23ffffff&link=https%3A%2F%2Ffarolina.vercel.app%2F
+)](https://farolina.vercel.app/)
+[![Instagram: farolina.r](https://img.shields.io/badge/Instagram-farolina.r-ffffff?logo=instagram&logoColor=%23ffffff&labelColor=DD2A7B&link=https%3A%2F%2Fwww.instagram.com%2Ffarolina.r%2F
+)](https://www.instagram.com/farolina.r/)
+
+### Last 5 Books I've Read 🤓
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
 
 ### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnlxZWJvOXgyZnJla3IzaGsxazV5dWo5ejBjM3FjbTUwZzBqYjVwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ki2BBH0qmrg8guIbBo/giphy.gif" width="50"> About me and my code life~
 
