@@ -10,7 +10,7 @@
 [![Instagram: farolina.r](https://img.shields.io/badge/Instagram-farolina.r-ffffff?logo=instagram&logoColor=%23ffffff&labelColor=DD2A7B&link=https%3A%2F%2Fwww.instagram.com%2Ffarolina.r%2F
 )](https://www.instagram.com/farolina.r/)
 
-### Last 5 Books I've Read 🤓
+### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJ0MzA3ZWxnMTBnZTk2bXowcm5lZnRxN3ZmZnduejU1MHVwaXVvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mG2pJcdFjjePzeHmVi/giphy.gif" width="35"> Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 - [Love for Imperfect Things: How to Accept Yourself in a World Striving for Perfection](https://www.goodreads.com/review/show/7988952838?utm_medium=api&utm_source=rss) by Haemin Sunim (⭐️4.24)
 - [Emotional Intelligence: Why It Can Matter More Than IQ](https://www.goodreads.com/review/show/7532975699?utm_medium=api&utm_source=rss) by Daniel Goleman (⭐️4.07)
@@ -31,7 +31,7 @@
   var farol = Profile{
     Code:       []string{"Go", "Javascript", "Python"},
     CurrentFocus: "Cybersecurity would be fun, I think.",
-    FunFact:      "",
+    FunFact:      "I'm training to be a sword master",
   }
 ```
 
