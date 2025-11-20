@@ -25,11 +25,11 @@
   package main
 
   type Technologies struct {
-    FrontEnd []string
-    BackEnd []string
-    CloudServices []string
-    Databases    []string
-    Misc         []string
+    FrontEnd       []string
+    BackEnd        []string
+    CloudServices  []string
+    Databases      []string
+    Misc           []string
   }
 
   type Profile struct {
