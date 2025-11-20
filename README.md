@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: farolina-r](https://img.shields.io/badge/farolina-r?logo=inspire&logoColor=%23ffffff&label=linkedin&color=%230077b5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffarolina-r%2F
-)]([https://www.linkedin.com/in/farolina-r/](https://www.linkedin.com/in/farolina-r/))
+)](https://www.linkedin.com/in/farolina-r/)
 
 ### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnlxZWJvOXgyZnJla3IzaGsxazV5dWo5ejBjM3FjbTUwZzBqYjVwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ki2BBH0qmrg8guIbBo/giphy.gif" width="50"> About me and my code life~
 
