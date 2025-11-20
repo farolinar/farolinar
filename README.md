@@ -41,8 +41,6 @@
 
   var farol = Profile{
     Code:         []string{"Go", "Javascript", "Python"},
-    CurrentFocus: "Cybersecurity would be fun, I think.",
-    FunFact:      "I'm training to be a sword master",
     Technologies: Technologies{
       FrontEnd:       []string{"React", "Next.js"},
       BackEnd:        []string{"Go", "Python", "Javascript"},
@@ -50,6 +48,8 @@
       Databases:      []string{"PostgreSQL", "MySQL", "redis"},
       Misc:           []string{}
     }
+    CurrentFocus: "Cybersecurity would be fun, I think.",
+    FunFact:      "I'm training to be a sword master"
   }
 ```
 
