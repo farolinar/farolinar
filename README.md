@@ -12,9 +12,9 @@
 
 ### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJ0MzA3ZWxnMTBnZTk2bXowcm5lZnRxN3ZmZnduejU1MHVwaXVvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mG2pJcdFjjePzeHmVi/giphy.gif" width="35"> Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Ikigai: The Japanese Secret to a Long and Happy Life](https://www.goodreads.com/review/show/8085573486?utm_medium=api&utm_source=rss) by Héctor  García (⭐️3.7)
 - [Love for Imperfect Things: How to Accept Yourself in a World Striving for Perfection](https://www.goodreads.com/review/show/7988952838?utm_medium=api&utm_source=rss) by Haemin Sunim (⭐️4.24)
 - [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.goodreads.com/review/show/8184077561?utm_medium=api&utm_source=rss) by Simon Sinek (⭐️4.1)
-- [Ikigai: The Japanese Secret to a Long and Happy Life](https://www.goodreads.com/review/show/8085573486?utm_medium=api&utm_source=rss) by Héctor  García (⭐️3.7)
 - [Meditations](https://www.goodreads.com/review/show/8085572908?utm_medium=api&utm_source=rss) by Marcus Aurelius (⭐️4.29)
 - [Emotional Intelligence: Why It Can Matter More Than IQ](https://www.goodreads.com/review/show/7532975699?utm_medium=api&utm_source=rss) by Daniel Goleman (⭐️4.07)
 - [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/review/show/7328200476?utm_medium=api&utm_source=rss) by James Clear (⭐️4.32)
