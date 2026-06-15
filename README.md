@@ -16,7 +16,7 @@
 - [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.goodreads.com/review/show/8184077561?utm_medium=api&utm_source=rss) by Simon Sinek (⭐️4.1)
 - [Meditations](https://www.goodreads.com/review/show/8085572908?utm_medium=api&utm_source=rss) by Marcus Aurelius (⭐️4.29)
 - [Emotional Intelligence: Why It Can Matter More Than IQ](https://www.goodreads.com/review/show/7532975699?utm_medium=api&utm_source=rss) by Daniel Goleman (⭐️4.07)
-- [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/review/show/7328200476?utm_medium=api&utm_source=rss) by James Clear (⭐️4.32)
+- [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/review/show/7328200476?utm_medium=api&utm_source=rss) by James Clear (⭐️4.31)
 <!-- GOODREADS-LIST:END -->
 
 ### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnlxZWJvOXgyZnJla3IzaGsxazV5dWo5ejBjM3FjbTUwZzBqYjVwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ki2BBH0qmrg8guIbBo/giphy.gif" width="50"> About me and my code life~
