@@ -13,6 +13,7 @@
 
 ### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJ0MzA3ZWxnMTBnZTk2bXowcm5lZnRxN3ZmZnduejU1MHVwaXVvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mG2pJcdFjjePzeHmVi/giphy.gif" width="35"> Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Iron Heart (Crier&apos;s War, #2)](https://www.goodreads.com/review/show/9044728717?utm_medium=api&utm_source=rss) by Nina Varela (⭐️4.19)
 - [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.goodreads.com/review/show/8184077561?utm_medium=api&utm_source=rss) by Simon Sinek (⭐️4.1)
 - [Meditations](https://www.goodreads.com/review/show/8085572908?utm_medium=api&utm_source=rss) by Marcus Aurelius (⭐️4.29)
 - [Emotional Intelligence: Why It Can Matter More Than IQ](https://www.goodreads.com/review/show/7532975699?utm_medium=api&utm_source=rss) by Daniel Goleman (⭐️4.07)
